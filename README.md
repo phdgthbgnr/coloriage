@@ -2,6 +2,8 @@
 
 ### logic jeu coloriage
 
+#### coloation d'un dessin au trait en SVG > export dans un canvas avec fond personnalisé
+
 ````js
 
 (function(m){
