@@ -26,9 +26,6 @@
     ty = 0,
     decalTop = 0,
 
-    mouseover = function(e,c,t){
-
-    },
 
     transendZoom = function(e,c,t){
         // console.log('end trnsition');
